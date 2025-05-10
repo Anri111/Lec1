@@ -2,7 +2,7 @@ import './App.css'
 
 function App() {
   
-let userName = 'Giorgi'
+let userName = 'Anri'
 let age = '15'
 
   return (
